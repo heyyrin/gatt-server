@@ -1,0 +1,12 @@
+# github.com/paypal/gatt v0.0.0-20151011220935-4ae819d591cf
+## explicit
+github.com/paypal/gatt
+github.com/paypal/gatt/examples/option
+github.com/paypal/gatt/examples/service
+github.com/paypal/gatt/linux
+github.com/paypal/gatt/linux/cmd
+github.com/paypal/gatt/linux/evt
+github.com/paypal/gatt/linux/gioctl
+github.com/paypal/gatt/linux/socket
+github.com/paypal/gatt/linux/util
+github.com/paypal/gatt/xpc
